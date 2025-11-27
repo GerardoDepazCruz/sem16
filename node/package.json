@@ -1,0 +1,7 @@
+{
+    "name":"contenedor-node",
+    "version":"1.0.0",
+    "description":"Contenedor Docker con Node.js",
+    "main":"app.js",
+    "licence":"MIT"
+}
