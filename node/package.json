@@ -3,5 +3,8 @@
     "version":"1.0.0",
     "description":"Contenedor Docker con Node.js",
     "main":"app.js",
-    "licence":"MIT"
+    "licence":"MIT",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
 }
